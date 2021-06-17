@@ -16,7 +16,7 @@ import socket
 import requests
 import math
 
-TOKEN = "ODM0NzkzNDU3NjQ1Mzg3Nzg2.YIGD_g.kGs82liJuuDCHoStD2wE_g0f9Yo"
+TOKEN = os.environ['TOKEN']
 
 # DEFINING THE BOT
 Bot = commands.Bot(command_prefix="-", intents=discord.Intents.all())
