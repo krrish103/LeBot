@@ -9,10 +9,20 @@ Prefix: **-**
 ## Features
 
 • -avatar | Gets The Avatar of the User
+
+
 • -id | Gets the ID of a User
+
+
 • -shorten | Shortens the URL Provided
+
+
 • -qrcode | Generate a QR Code for the Text or LInk Provided
+
+
 • -inspire Sends An Inspirational Quote
+
+
 • -hi | Replys You back wit
 •
 •
