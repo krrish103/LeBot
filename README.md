@@ -45,3 +45,24 @@ Prefix: **-**
 
 
 • -cuberoot | Tells the cube root of a number. | Required Arguments: Number
+
+## Screenshots
+
+![image](https://user-images.githubusercontent.com/68855928/122870376-a4b9b880-d33e-11eb-85a6-80750d8b46b0.png)
+
+![image](https://user-images.githubusercontent.com/68855928/122870460-bef39680-d33e-11eb-8596-4f6b85e75bcf.png)
+
+![image](https://user-images.githubusercontent.com/68855928/122870581-e6e2fa00-d33e-11eb-9964-7e7085b982ce.png)
+
+![image](https://user-images.githubusercontent.com/68855928/122870626-f5311600-d33e-11eb-9fea-f27da940ed7c.png)
+
+![image](https://user-images.githubusercontent.com/68855928/122870705-1134b780-d33f-11eb-806a-4a8f134be96d.png)
+
+![image](https://user-images.githubusercontent.com/68855928/122870721-185bc580-d33f-11eb-9570-ddb97c0d012e.png)
+
+![image](https://user-images.githubusercontent.com/68855928/122870771-2b6e9580-d33f-11eb-9637-bae128f44669.png)
+
+
+
+
+
