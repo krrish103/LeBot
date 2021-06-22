@@ -161,13 +161,10 @@ async def id(ctx, avamember: discord.Member = None):
 
 
 @Bot.command()
-async def avatar(ctx, avamember: discord.Member = None):
-    print(type(avamember))
-    print(avamember)
-    if avamember == None:
-        avamember = ctx.author
-    userAvatarUrl = avamember.avatar_url
-    await ctx.send(userAvatarUrl)
+async def avatar(ctx, member: discord.Member = None):
+        if member == None:
+            member = ctx.author
+        await ctx.send(embed=discord.Embed().set_image(url=member.avatar_url))
 
 @Bot.command(aliases=["calc"])
 async def calculate(ctx, function, n1, n2):
